@@ -1,0 +1,3 @@
+# بوابات الدفع (std_stripe)
+اكتب("💳 تم تحميل بوابة دفع Stripe.")
+دالة إنشاء_دفعة(سر, مبلغ, عملة) { ارجع تنفيذ_نظام("تنفيذ_أمر", "curl -s https://api.stripe.com/v1/charges -u " + سر + ": -d amount=" + مبلغ + " -d currency=" + عملة + " -d source=tok_visa") }

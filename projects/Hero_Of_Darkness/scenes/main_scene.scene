@@ -1,0 +1,7 @@
+{
+  "GameName": "Hero_Of_Darkness",
+  "PhysicsEngine": "Havok Powered",
+  "Graphics": "3D Realistic Raytracing",
+  "TotalEntities": 100,
+  "UserDescription": "مدينة مدمرة ثلاثية الأبعاد تحتوي على ذكاء اصطناعي وأتباع و100 شخصية متطورة بفيزياء Havok"
+}
