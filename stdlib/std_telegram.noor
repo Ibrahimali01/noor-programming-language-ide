@@ -1,0 +1,3 @@
+# بوتات تيليجرام (std_telegram)
+اكتب("✈️ تم تحميل واجهة بوتات Telegram.")
+دالة تيليجرام_إرسال(توكن, شات, رسالة) { ارجع تنفيذ_نظام("تنفيذ_أمر", "curl -s -X POST "https://api.telegram.org/bot" + توكن + "/sendMessage" -d chat_id=" + شات + " -d text="" + رسالة + """) }

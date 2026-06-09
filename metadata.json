@@ -1,0 +1,6 @@
+{
+  "name": "Noor Programming Language IDE",
+  "description": "An interactive development environment, playground, beautiful documentation, and AI compiler for the Noor (نور) independent programming language.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
